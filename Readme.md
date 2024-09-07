@@ -24,6 +24,6 @@ Mi nombre es Alejandro, soy de España y soy desarrollador de aplicaciones web y
 <div style="margin-top: 10px; line-height: 2;">
 
   * [![Linkedin Badge](https://img.shields.io/badge/-AlejandroAbad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-vaq-abad/)](https://www.linkedin.com/in/alejandro-vaq-abad/)
-  * [![Gmail Badge](https://img.shields.io/badge/-01abadalejandro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:01abadalejandro@gmail.com)](mailto:kanna6501@gmail.com)
+  * [![Gmail Badge](https://img.shields.io/badge/-01abadalejandro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:01abadalejandro@gmail.com)](mailto:01abadalejandro@gmail.com)
   * [![Instagram Badge](https://img.shields.io/badge/-alxmdit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alxmdit/)](https://instagram.com/alxmdit)
 </div>
