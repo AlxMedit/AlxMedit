@@ -1,4 +1,4 @@
-# 💼 Alejandro Abad — En búsqueda activa de oportunidades laborales
+# Alejandro Abad — En búsqueda activa de oportunidades laborales
 
 > Profesional en tecnologías de la información con formación en administración de sistemas y desarrollo web. Busco integrarme en un equipo dinámico donde pueda seguir creciendo y aportando mis conocimientos en programación, despliegue web y gestión de infraestructura.
 
