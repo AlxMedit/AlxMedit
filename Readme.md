@@ -1,29 +1,57 @@
-<div style="display: flex; align-items: center; gap: 20px">
-  <h2>¡Bienvenid@!</h2>
-  <img src="assets/giphy.gif" width="50" height="auto">
-</div>
+# Alejandro Abad - Perfil Profesional
 
-Mi nombre es Alejandro, soy de España y soy desarrollador de aplicaciones web y administrador de sistemas y redes.
+## Experiencia Laboral
 
-### Actualmente estoy en búsqueda activa de trabajo.
-### Entre las tecnologías que uso están:
-<div style="margin-top: 10px; line-height: 2;">
+### **Marzo 2022 - Junio 2022**
+**Centro Magisterio Sagrado Corazón** (adscrito Universidad de Córdoba)
+- Gestión y mantenimiento de infraestructura informática.
+- Revisión y mantenimiento de equipos.
+- Asistencia técnica a docentes y estudiantes.
 
-  * ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  * ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  * ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  * ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  * ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  * ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  * ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)
-  * ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+### **Marzo 2025 - Actualidad**
+**Fersoft Informática S.L.**
+- Despliegue de aplicaciones web.
+- Gestión y diseño web.
+- Uso de plugins y maquetadores visuales.
 
-</div>
+---
 
-### Dónde encontrarme:
-<div style="margin-top: 10px; line-height: 2;">
+## Formación Académica
 
-  * [![Linkedin Badge](https://img.shields.io/badge/-AlejandroAbad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandro-vaq-abad/)](https://www.linkedin.com/in/alejandro-vaq-abad/)
-  * [![Gmail Badge](https://img.shields.io/badge/-01abadalejandro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:01abadalejandro@gmail.com)](mailto:01abadalejandro@gmail.com)
-  * [![Instagram Badge](https://img.shields.io/badge/-alxmdit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alxmdit/)](https://instagram.com/alxmdit)
-</div>
+### **Septiembre 2020 - Junio 2022**
+**Técnico Superior en Administración de Sistemas Informáticos en Red**
+C.E.S. Lope de Vega
+
+### **Septiembre 2022 - Actualidad**
+**Técnico Superior en Desarrollo de Aplicaciones Web**
+I.E.S. Gran Capitán
+
+---
+
+## Hard Skills
+
+### Lenguajes de Programación:
+- PHP
+- JavaScript
+- Python
+- Bash
+- SQL
+- HTML/CSS
+
+### Frameworks y Librerías:
+- Laravel
+- React
+- jQuery
+- Symfony (nociones)
+
+### CMS:
+- WordPress (desarrollo y mantenimiento)
+
+### APIs:
+- Desarrollo e integración de APIs REST
+
+### Otros:
+- Git
+- MySQL
+- Consola Linux
+- Despliegue web y administración básica de servidores
