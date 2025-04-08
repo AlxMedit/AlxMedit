@@ -38,7 +38,6 @@ I.E.S. Gran Capitán
 - PHP
 - JavaScript
 - Python
-- Bash
 - SQL
 - HTML/CSS
 
