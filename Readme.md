@@ -1,5 +1,5 @@
 # Buenas, soy Alejandro Abad
-<span title="¿En qué puedo ayudarte?" style="cursor: help;">></span> Administrador de sistemas y desarrollador web
+> <span title="¿En qué puedo ayudarte?" style="cursor: help;"> Administrador de sistemas y desarrollador web</span>
 
 ## 🛠️ Mi stack tecnológico
 
