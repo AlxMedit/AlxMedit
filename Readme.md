@@ -1,26 +1,5 @@
 # Buenas, soy Alejandro Abad
-<style>
-  blockquote {
-    position: relative;
-    cursor: pointer;
-  }
-  blockquote::before {
-    content: ">";
-    color: #555;
-    font-weight: bold;
-    margin-right: 8px;
-  }
-  blockquote:hover::before {
-    content: "¿En qué puedo ayudarte?";
-    color: #e63946;
-    font-weight: bold;
-    white-space: nowrap;
-  }
-</style>
-<blockquote>
-Administrador de sistemas y desarrollador web
-</blockquote>
-
+<span title="¿En qué puedo ayudarte?" style="cursor: help;">></span> Administrador de sistemas y desarrollador web
 
 ## 🛠️ Mi stack tecnológico
 
@@ -58,13 +37,6 @@ Administrador de sistemas y desarrollador web
 ---
 
 ## Contacto
-
-<style>
-a.enlace-hover:hover {
-  color: #FF5733; /* Cambia el color al pasar el cursor */
-  text-decoration: none;
-}
-</style>
 
 ### <a href="https://www.linkedin.com/in/alxmedit/" class="enlace-hover">LinkedIn</a>
 ### <a href="mailto:01abadalejandro@gmail.com" class="enlace-hover">Email</a>
